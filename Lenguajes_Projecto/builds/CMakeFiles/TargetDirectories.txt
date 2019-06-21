@@ -1,0 +1,4 @@
+/home/carlos/Desktop/Lenguajes_Projecto/builds/CMakeFiles/edit_cache.dir
+/home/carlos/Desktop/Lenguajes_Projecto/builds/CMakeFiles/test.dir
+/home/carlos/Desktop/Lenguajes_Projecto/builds/CMakeFiles/test_lexer.dir
+/home/carlos/Desktop/Lenguajes_Projecto/builds/CMakeFiles/rebuild_cache.dir
